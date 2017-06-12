@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: _pages/about.md
+    url: /about/
   - title: "Software"
-    url: _pages/software.md
+    url: /software/
   - title: "Support"
-    url: _pages/support.md
+    url: /support/
   - title: "Contact Us"
-    url: _pages/contact.md
+    url: /contact/
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
